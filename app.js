@@ -1,4 +1,4 @@
-.const axios = require('axios')
+const axios = require('axios')
 const qs = require('./utils/qs')
 const sendEmail = require('./utils/email') 
 const data = qs.data
